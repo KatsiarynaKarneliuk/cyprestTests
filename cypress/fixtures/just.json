@@ -1,0 +1,60 @@
+{
+  "result" : [
+     {
+        "available" : 1,
+        "cover_ratio" : "0.667",
+        "uuid" : "7ce83feb-1fa4-11e7-a56b-0cc47a520474",
+        "mem" : "text",
+        "subtitle" : "",
+        "id" : "23795745",
+        "release_file" : 41102339,
+        "promo_price" : "379.00",
+        "book_avail_by_subscr" : 1,
+        "smart_rating" : 1000560,
+        "type" : 0,
+        "item_type" : "art",
+        "url" : "/mayk-malleyn/verhom-na-rakete-vozmutitelnye-istorii-astronavta-shattla/",
+        "can_preorder" : 0,
+        "price" : "379.00",
+        "title" : "Верхом на ракете. Возмутительные истории астронавта шаттла",
+        "persons" : {
+           "person" : [
+              {
+                 "s_first_name" : "Майк",
+                 "s_full_rodit" : "Майка Маллейна",
+                 "s_last_name" : "Маллейн",
+                 "id" : 11086134,
+                 "total_arts" : 1,
+                 "relation" : 0,
+                 "lvl" : 1,
+                 "s_full_name" : "Майк Маллейн",
+                 "fake" : "0",
+                 "s_relation_uilang" : "Автор текста"
+              },
+              {
+                 "id" : 9108367,
+                 "s_last_name" : "Лисовский",
+                 "s_full_rodit" : "Игоря Лисовского",
+                 "s_first_name" : "Игорь",
+                 "fake" : "0",
+                 "s_relation_uilang" : "Переводчик",
+                 "total_arts" : 1,
+                 "s_full_name" : "Игорь Лисовский",
+                 "lvl" : 1,
+                 "relation" : 1
+              }
+           ]
+        },
+        "cover" : "jpg"
+     }
+  ],
+  "search_string" : "верхом на ракете. возмутительные истории астронавта шаттла",
+  "limit" : 9,
+  "page_data" : {
+     "rmd_search" : {
+        "stat" : {
+           "has_request_result" : 1
+        }
+     }
+  }
+}
