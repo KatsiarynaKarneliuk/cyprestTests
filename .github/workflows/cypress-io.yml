@@ -8,8 +8,12 @@ on:
     branches:[main]
     
   jobs:
+    start:
         runs-on: ubuntu-latest
-  steps:
+        container:
+          image: cypress/included:9.0.0
+          options: --ipc=host
+    steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
